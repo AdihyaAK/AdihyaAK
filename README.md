@@ -1,12 +1,12 @@
 Hi there!👋
-    I am ADITHYA A K, a dedicated Datascience and Machine learning student with a passion for uncovering insights from data building
-intelligent systems. Welcome to my Github profile!
+    I am ADITHYA A K, I'm a **MERN Stack student** learning to build full-stack web applications using **MongoDB, Express.js, React, and Node.js**.  
+Currently working on improving my **React and backend skills** while building real-world projects. 🚀  . Welcome to my Github profile!
 
 - 👋 Hi, I’m @AdihyaAK
-- 👀 I’m interested in Datascience 
-- 🌱 I’m currently learning advanced techniques in DATASCIENCE & MACHINE LEARNING
+- 👀 I’m interested in Fullstack development 
+- 🌱 I’m currently learning advanced techniques in MERN stack
 - 💞️ I’m looking to collaborate on open-source projects
-- 🤔 I’m looking for help with optimizing algorithms and deploying machine learning models.
+- ⭐ **Excited to learn, build, and grow as a MERN stack developer!** ⭐
 - 📫 How to reach me adithya141999@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When I'm not coding, you can find me exploring nature.
